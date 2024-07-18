@@ -18,10 +18,10 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Raph Smart
           </a>
-          <Link to="/">Home</Link>
-          <Link to="/otherpage">Other Page</Link>
+          <Link to="/">Learning DevOps</Link>
+          <Link to="/otherpage">Deploy on Travis and AWS</Link>
         </header>
         <div>
           <Route exact path="/" component={Fib} />
