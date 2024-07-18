@@ -18,9 +18,9 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Raph Smart
+            RaphSmart(DeOps Engineer)
           </a>
-          <Link to="/">Learning DevOps</Link>
+          <Link to="/">Learning DevOps. This is getting interesting.</Link>
           <Link to="/otherpage">Deploy on Travis and AWS</Link>
         </header>
         <div>
